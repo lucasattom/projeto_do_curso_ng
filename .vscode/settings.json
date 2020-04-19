@@ -1,0 +1,29 @@
+{
+  "files.exclude": {
+    "e2e": true,
+    ".vscode": true,
+    "node_modules": true,
+    "src\\assets": true,
+    "src\\browserslist": true,
+    "src\\karma.conf.js": true,
+    ".prettierrc": true,
+    "src\\polyfills.ts": true,
+    "src\\tsconfig.spec.json": true,
+    "how-to-use.txt": true,
+    "src\\styles.css": true,
+    ".editorconfig": true,
+    "fsafsdf.txt": true,
+    "angular.json": true,
+    "src\\favicon.ico": true,
+    ".gitignore": true,
+    "package-lock.json": true,
+    "package.json": true,
+    "src\\main.ts": true,
+    "src\\test.ts": true,
+    "README.md": true,
+    "src\\tslint.json": true,
+    "tslint.json": true,
+    "tsconfig.json": true,
+    "src\\tsconfig.app.json": true
+  }
+}
